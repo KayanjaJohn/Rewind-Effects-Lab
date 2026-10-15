@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "REWIND Reference Effects Lab",
+  "short_name": "REWIND FX",
+  "description": "Reference-inspired cinematic glow, dreamy motion, prismatic lens and fantasy light effects.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0b16",
+  "theme_color": "#0d0b16",
+  "categories": [
+    "photo",
+    "design",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
